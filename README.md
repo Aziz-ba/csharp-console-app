@@ -1,13 +1,13 @@
-# 💻 C# Console App — Interactive Exercises
+# 💻 C# Console App - Interactive Exercises
 
-A menu-driven **C# console application** (.NET) that runs a set of classic programming exercises interactively. Pick an exercise from the menu, give it input, and it prints the result — then loops back to the menu.
+A menu-driven **C# console application** (.NET) that runs a set of classic programming exercises interactively. Pick an exercise from the menu, give it input, and it prints the result - then loops back to the menu.
 
 ## 🎮 What's inside
 
 A `switch`-based menu wired to dedicated static methods, covering:
 
 - **Palindrome check** on an integer array
-- **ASCII pattern drawing** — a line/matrix of signs and a diagonal
+- **ASCII pattern drawing** - a line/matrix of signs and a diagonal
 - **Multiplication tables**
 - **String reversal**
 - Input handling via a reusable `SaisieNombre()` helper and regex validation
